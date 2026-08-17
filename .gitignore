@@ -1,0 +1,14 @@
+# Image datasets / generated crops
+images/
+regions/
+only makeup images/
+missing_makeup/
+test_regions/
+test_vHX704/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
